@@ -1,4 +1,4 @@
-# Balancing of inverted pole on cart by considering the horizontal and verticle movement of the cart.
+# Balancing of inverted pole on cart by considering the horizontal and vertical movement of the cart.
 # Tool 
 # -> OpenAI gym
 # -> Stable-Baselines3
